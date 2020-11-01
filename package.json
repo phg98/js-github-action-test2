@@ -1,0 +1,22 @@
+{
+  "name": "js-github-action-test2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "sum.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/phg98/js-github-action-test2.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/phg98/js-github-action-test2/issues"
+  },
+  "homepage": "https://github.com/phg98/js-github-action-test2#readme",
+  "devDependencies": {
+    "jest": "^26.6.1"
+  }
+}
